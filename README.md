@@ -43,6 +43,7 @@ A curated list of awesome niche job boards.
 ## Blockchain
 
 * [CryptoJobsHub](https://www.cryptojobshub.io) - Curated crypto, Web3, DeFi, and blockchain job board with verified remote engineering, marketing, and leadership listings.
+* [CryptoJobsHub](https://www.cryptojobshub.io) - Curated crypto, Web3, DeFi, and blockchain job board with verified remote engineering, marketing, and leadership listings.
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
 * [Blockchain Works](https://blockchain.works-hub.com/) - Discover **the best** Blockchain opportunities and articles with **Blockchain Works**
